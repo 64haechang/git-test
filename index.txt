@@ -1,6 +1,7 @@
 index.html
 
 <html>
+	<head> </head>
 	<body>
 		<header>
 		<h1> Git </h1> 
